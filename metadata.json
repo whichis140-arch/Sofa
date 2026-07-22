@@ -1,0 +1,6 @@
+{
+  "name": "Sofa Post Generator",
+  "description": "AI-powered UK furniture marketing platform that turns sofa photos into high-converting Facebook Marketplace listings, graphic banners, and structured listing copy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
